@@ -1,0 +1,5 @@
+benerin kode ini :
+
+1. data-scroll-reveal=
+
+2. _blank
