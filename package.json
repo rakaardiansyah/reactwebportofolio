@@ -1,6 +1,7 @@
 {
   "name": "webpersonal",
   "version": "0.1.0",
+  "homepage": "https://rakaardiansyah.my.id/",
   "private": true,
   "script": {
     "build": "webpack",

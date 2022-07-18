@@ -4,8 +4,13 @@ class Home extends Component{
     render() {
         return (
             <React.Fragment>
+                <noscript>
+                    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6PVF8J"
+                        height="0" width="0" style="display:none;visibility:hidden">
+                    </iframe>
+                </noscript>
 
-                <div id="preloader">
+                <div id="prnpm eloader">
                     <div className="jumper">
                         <div></div>
                         <div></div>
@@ -28,11 +33,11 @@ class Home extends Component{
 
                                     <div className="row">
                                         <div className="credit">
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A" target="_blank" rel="noreferrer"><i className="fa fa-youtube"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.instagram.com/infogtech.id/" target="_blank" rel="noreferrer"><i className="fa fa-instagram"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://dribbble.com/rakaardiansyah" target="_blank" rel="noreferrer"><i className="fa fa-dribbble"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.linkedin.com/in/raka-ardiansyah23/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://github.com/rakaardiansyah" target="_blank" rel="noreferrer"><i className="fa fa-github"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A" target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.instagram.com/infogtech.id/" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://dribbble.com/rakaardiansyah" target="_blank" rel="noopener noreferrer"><i className="fa fa-dribbble"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.linkedin.com/in/raka-ardiansyah23/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://github.com/rakaardiansyah" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -44,7 +49,7 @@ class Home extends Component{
                 <nav className="navbar navbar-dark bg-info navbar-expand d-md-none d-lg-none d-xl-none fixed-bottom">
                     <ul className="navbar-nav nav-justified w-100">
                         <li className="nav-item">
-                            <a href="/home" className="nav-link">
+                            <a href="#welcome" className="nav-link">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor" className="bi bi-house" viewBox="0 0 16 16">
                                     <path fillRule="evenodd" d="M2 13.5V7h1v6.5a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5V7h1v6.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5zm11-11V6l-2-2V2.5a.5.5 0 0 1
                                 .5-.5h1a.5.5 0 0 1 .5.5z"/>
@@ -54,7 +59,7 @@ class Home extends Component{
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a href="/Portofolio" className="nav-link">
+                            <a href="#" className="nav-link">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor" className="bi bi-clipboard2-check" viewBox="0 0 16 16">
                                     <path d="M9.5 0a.5.5 0 0 1 .5.5.5.5 0 0 0 .5.5.5.5 0 0 1 .5.5V2a.5.5 0 0 1-.5.5h-5A.5.5 0 0 1 5 2v-.5a.5.5 0 0 1 .5-.5.5.5 0 0 0 .5-.5.5.5 0 0 1 .5-.5h3Z"/>
                                     <path d="M3 2.5a.5.5 0 0 1 .5-.5H4a.5.5 0 0 0 0-1h-.5A1.5 1.5 0 0 0 2 2.5v12A1.5 1.5 0 0 0 3.5 16h9a1.5 1.5 0 0 0 1.5-1.5v-12A1.5 1.5 0 0 0 12.5
@@ -65,7 +70,7 @@ class Home extends Component{
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a href="/Uiuxdesign" className="nav-link">
+                            <a href="https://dribbble.com/rakaardiansyah" target="_blank" className="nav-link">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor" className="bi bi-journal-richtext" viewBox="0 0 16 16">
                                     <path d="M7.5 3.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0zm-.861 1.542 1.33.886 1.854-1.855a.25.25 0 0 1 .289-.047L11 4.75V7a.5.5 0 0 1-.5.
                                     5h-5A.5.5 0 0 1 5 7v-.5s1.54-1.274 1.639-1.208zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a

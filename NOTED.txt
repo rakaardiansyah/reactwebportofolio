@@ -1,5 +1,7 @@
-benerin kode ini :
+Benerin kode ini :
 
 1. data-scroll-reveal=
 
-2. _blank
+2. href="/Portofolio"
+
+3. <a href="#" className="nav-link">

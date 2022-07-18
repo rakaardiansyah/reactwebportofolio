@@ -269,23 +269,8 @@ class Experience extends Component {
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/certificate/E-Certificate Quality Assurance Mindset - Raka Ardiansyah Pratama (1)-1.png"
-                                                    className="image-popup"
-                                                    title="Quality Assurance Mindset">
-                                                    <img src="assets/images/certificate/E-Certificate Quality Assurance Mindset - Raka Ardiansyah Pratama (1)-1.png"
-                                                        className="tm-special-img img-responsive" alt="" />
-                                                    <div className="tm-special-description">
-                                                        <h4 className="title-certificate">Quality Assurance Mindset</h4>
-                                                        <p className="desc-certificate">Rangkaian workshop yang menerangkan terkait pekerjaan yang biasa dilakukan oleh QA di beberapa perusahaan.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="col-md-4 mb-3 mb-md-0">
-                                        <div className="tm-special-img-container">
-                                            <div className="certificate-item">
-                                                <a href="assets/images/certificate/Baparekraf-Developer-Day-2020.png" className="image-popup" title="Baparekraf 2020">
+                                                <a href="assets/images/certificate/Baparekraf-Developer-Day-2020.png"
+                                                    className="image-popup" title="Baparekraf 2020">
                                                     <img src="assets/images/certificate/Baparekraf-Developer-Day-2020.png" className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Baparekraf 2020</h4>
@@ -298,7 +283,8 @@ class Experience extends Component {
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/certificate/Baparekraf-Developer-Day 2021.png" className="image-popup" title="Baparekraf 2021">
+                                                <a href="assets/images/certificate/Baparekraf-Developer-Day 2021.png"
+                                                    className="image-popup" title="Baparekraf 2021">
                                                     <img src="assets/images/certificate/Baparekraf-Developer-Day 2021.png" className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Baparekraf 2021</h4>
@@ -326,9 +312,23 @@ class Experience extends Component {
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
+                                                <a href="assets/images/certificate/E-Certificate Quality Assurance Mindset - Raka Ardiansyah Pratama (1)-1.png"
+                                                    className="image-popup" title="Quality Assurance Mindset">
+                                                    <img src="assets/images/certificate/E-Certificate Quality Assurance Mindset - Raka Ardiansyah Pratama (1)-1.png"
+                                                        className="tm-special-img img-responsive" alt="" />
+                                                    <div className="tm-special-description">
+                                                        <h4 className="title-certificate">Quality Assurance Mindset</h4>
+                                                        <p className="desc-certificate">Rangkaian workshop yang menerangkan terkait pekerjaan yang biasa dilakukan oleh QA di <br/>beberapa perusahaan.</p>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-md-4 mb-3 mb-md-0">
+                                        <div className="tm-special-img-container">
+                                            <div className="certificate-item">
                                                 <a href="assets/images/certificate/Pijar_mahir--raka ardiansyah--Be The Most Wanted UX Researcher-1.jpg"
-                                                    className="image-popup"
-                                                    title="Pijar Mahir-UX Researcher">
+                                                    className="image-popup" title="Pijar Mahir-UX Researcher">
                                                     <img src="assets/images/certificate/Pijar_mahir--raka ardiansyah--Be The Most Wanted UX Researcher-1.jpg"
                                                         className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
