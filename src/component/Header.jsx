@@ -26,13 +26,17 @@ export class Header extends Component{
                                             <a href="#about" className="menu-item">About Me</a>
                                         </li>
                                         <li className="scroll-to-section">
+                                            <a href="#certificate" className="menu-item">Portofolio</a>
+                                        </li>
+                                        <li className="scroll-to-section">
                                             <a href="#portofolio" className="menu-item">Experience</a>
                                         </li>
                                         <li className="scroll-to-section">
                                             <a href="#contact-us" className="menu-item">Contact</a>
                                         </li>
                                         <li className="scroll-to-section">
-                                            <a href="https://infogabut.blogspot.com/" target="_blank" rel="noopener noreferrer">Blog</a>
+                                            <a href="https://infogabut.blogspot.com/" target="_blank"
+                                                rel="noopener noreferrer">Blog</a>
                                         </li>
                                     </ul>
                                     <a className='menu-trigger'>

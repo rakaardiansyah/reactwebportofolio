@@ -1031,6 +1031,13 @@ Certificate Gallery
   line-height: 14px;
   color: #ffffff;
 }
+.desc-link {
+  margin-top: 0;
+  font-size: 16px;
+  line-height: 14px;
+  color: #f5c53f;
+  background-color: #212529;
+}
 .desc-certificate {
   margin-top: 5px;
   margin-bottom: 2px;
@@ -1071,7 +1078,7 @@ Info Lebih Lanjut
 ---------------------------------------------
 */
 #contact-us {
-  padding: 50px 0px;
+  padding: 25px 0px;
 }
 
 /*
@@ -1091,7 +1098,7 @@ Left Image Decor
 }
 
 #certificate {
-  padding: 50px 0px;
+  padding: 25px 0px;
 }
 
 #certificate .left-image {
@@ -1248,7 +1255,7 @@ footer
     margin-top: 0px!important;
   }
   #certificate .certificate-item {
-    width: 103%;
+    width: 100%;
   }
   .contact-form {
     margin-bottom: 45px;
