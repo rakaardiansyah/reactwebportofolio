@@ -4,12 +4,6 @@ export class Header extends Component{
     render() {
         return (
             <React.Fragment>
-                <noscript>
-                    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6PVF8J"
-                        height="0" width="0" style="display:none;visibility:hidden">
-                    </iframe>
-                </noscript>
-
                 <header id="header" className="header-area header-sticky">
                     <div className="container">
                         <div className="row">

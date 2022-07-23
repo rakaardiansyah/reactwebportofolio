@@ -10,7 +10,7 @@ export class Footer extends Component {
                             <div className="col-lg-12">
                                 <div className="sub-footer">
                                     <p>Copyright &copy; 2022 RakaArd&nbsp;
-                                        <a rel="nofollow" href="/home">Website</a></p>
+                                        <a rel="nofollow" href="#!">Website</a></p>
                                 </div>
                             </div>
                         </div>

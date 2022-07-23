@@ -1,4 +1,4 @@
-import React, { Component, Link } from 'react';
+import React, { Component } from 'react';
 
 class Portofolioo extends Component {
     render() {
@@ -21,8 +21,10 @@ class Portofolioo extends Component {
                                                 <a href="assets/images/portofolio/portofolio1.jpg" className="image-popup" title="Company Profile PT Khazanah Teknologi Indonesia">
                                                     <img src="assets/images/portofolio/portofolio1.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
-                                                        <h4 className="title-certificate">Company Profile PT Khazanah Teknologi Indonesia</h4>
-                                                        <p className="desc-certificate">Company Profile PT Khazanah Teknologi Indonesia adalah perusahaan software house</p>
+                                                        <h4 className="title-certificate">
+                                                            Company Profile PT Khazanah Teknologi Indonesia</h4>
+                                                        <p className="desc-certificate">Company Profile PT Khazanah Teknologi
+                                                            Indonesia adalah perusahaan software house</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -34,8 +36,10 @@ class Portofolioo extends Component {
                                                 <a href="assets/images/portofolio/portofolio2.jpg" className="image-popup" title="Admin Rumah-Indonesia">
                                                     <img src="assets/images/portofolio/portofolio2.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
-                                                        <h4 className="title-certificate">FrontEnd Admin Rumah Indonesia</h4>
-                                                        <p className="desc-certificate">Admin rumah indonesia biasa di pakai dalam menambahkan atau mengedit stock barang yang di gunakan Supplier.</p>
+                                                        <h4 className="title-certificate">
+                                                            FrontEnd Admin Rumah Indonesia</h4>
+                                                        <p className="desc-certificate">Admin rumah indonesia biasa di pakai dalam
+                                                            menambahkan atau mengedit stock barang yang di gunakan Supplier.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -47,8 +51,10 @@ class Portofolioo extends Component {
                                                 <a href="assets/images/portofolio/portofolio3.jpg" className="image-popup" title="Pijar Mahir-UI/UX">
                                                     <img src="assets/images/portofolio/portofolio3.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
-                                                        <h4 className="title-certificate">Pijar Mahir-UI/UX</h4>
-                                                        <p className="desc-certificate">Cara cepat emmbangun UI/UX dengan memanfaatkan Fitur pada Figma.</p>
+                                                        <h4 className="title-certificate">
+                                                            Pijar Mahir-UI/UX</h4>
+                                                        <p className="desc-certificate">Cara cepat emmbangun UI/UX dengan
+                                                            memanfaatkan Fitur pada Figma.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -60,8 +66,10 @@ class Portofolioo extends Component {
                                                 <a href="assets/images/portofolio/portofolio4.jpg" className="image-popup" title="Referral Haji Bank Syariah Indonesia">
                                                     <img src="assets/images/portofolio/portofolio4.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
-                                                        <h4 className="title-certificate">Referral Haji Bank Syariah Indonesia</h4>
-                                                        <p className="desc-certificate">System Referral Haji dipakai untuk internal Bank BSI yang di gunakan pegawai daftar Haji & Umrah</p>
+                                                        <h4 className="title-certificate">
+                                                            Referral Haji Bank Syariah Indonesia</h4>
+                                                        <p className="desc-certificate">System Referral Haji dipakai untuk internal
+                                                            Bank BSI yang di gunakan pegawai daftar Haji dan Umrah</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -192,7 +200,8 @@ class Portofolioo extends Component {
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">ComPro PT Koperasi Karyawan Bank Syariah Mandiri</h4>
                                                         <p className="desc-certificate">Berikut adalah Company Profile PT Bank Syariah Mandiri</p>
-                                                        <a className="desc-link" href="https://kopkarbsm.co.id/" target="_blank" rel="noopener noreferrer" size>kopkarbsm.co.id</a>
+                                                        <a className="desc-link" href="https://kopkarbsm.co.id/"
+                                                            target="_blank" rel="noopener noreferrer" size> kopkarbsm.co.id</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -206,7 +215,8 @@ class Portofolioo extends Component {
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Laznas Donasi Bank Syariah Indonesia</h4>
                                                         <p className="desc-certificate">Berikut adalah Laznas Donasi Bank Syariah Indonesia yang di gunakan untuk Zakat, Donasi, Wakaf dan Kegiatan Lainnya</p>
-                                                        <a className="desc-link" href="https://referralbsi.com/laznas" target="_blank" rel="noopener noreferrer" size>laznasdonation</a>
+                                                        <a className="desc-link" href="https://referralbsi.com/laznas"
+                                                            target="_blank" rel="noopener noreferrer" size> laznasdonation</a>
                                                     </div>
                                                 </a>
                                             </div>

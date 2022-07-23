@@ -38,7 +38,8 @@ class About extends Component {
                                             <img src="assets/images/Untitled-3.png" alt="" />
                                             <h4>UI/UX Design</h4>
                                             <p>Portofolio UI/UX and Design yang telah di buat</p>
-                                            <a href="/pages/Uiuxdesign.jsx" className="main-button">
+                                            <a href="/pages/Uiuxdesign.jsx" className="main-button"
+                                                target="_blank" rel="noopener noreferrer">
                                                 Read More
                                             </a>
                                         </div>
@@ -51,7 +52,8 @@ class About extends Component {
                                             <img src="assets/images/Untitled-1.png" alt="" />
                                             <h4>Portofolio</h4>
                                             <p>Portofolio Program yang telah dibuat</p>
-                                            <a href="/pages/Portofolio.jsx" className="main-button">
+                                            <a href="/pages/Portofolio.jsx" className="main-button"
+                                                target="_blank" rel="noopener noreferrer">
                                                 Read More
                                             </a>
                                         </div>
@@ -67,7 +69,6 @@ class About extends Component {
                                             <h3 className="mb-3"><strong>Education</strong></h3>
                                             <label className="control-label mb-1">School history that has been passed</label>
                                         </div>
-
                                     </div>
                                     <div className="col-lg-8">
                                         <div className="form-group">

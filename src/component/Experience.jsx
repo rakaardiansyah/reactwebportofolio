@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// import ScrollReveal from 'scrollreveal';
 
 class Experience extends Component {
     render() {
@@ -271,10 +272,12 @@ class Experience extends Component {
                                             <div className="certificate-item">
                                                 <a href="assets/images/certificate/Baparekraf-Developer-Day-2020.png"
                                                     className="image-popup" title="Baparekraf 2020">
-                                                    <img src="assets/images/certificate/Baparekraf-Developer-Day-2020.png" className="tm-special-img img-responsive" alt="" />
+                                                    <img src="assets/images/certificate/Baparekraf-Developer-Day-2020.png"
+                                                        className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Baparekraf 2020</h4>
-                                                        <p className="desc-certificate">Rangkaian event untuk meningkatkan kapasitas pelaku kreatif khususnya untuk subsektor aplikasi dan games.</p>
+                                                        <p className="desc-certificate">
+                                                            Rangkaian event untuk meningkatkan kapasitas pelaku kreatif khususnya untuk subsektor aplikasi dan games.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -285,10 +288,12 @@ class Experience extends Component {
                                             <div className="certificate-item">
                                                 <a href="assets/images/certificate/Baparekraf-Developer-Day 2021.png"
                                                     className="image-popup" title="Baparekraf 2021">
-                                                    <img src="assets/images/certificate/Baparekraf-Developer-Day 2021.png" className="tm-special-img img-responsive" alt="" />
+                                                    <img src="assets/images/certificate/Baparekraf-Developer-Day 2021.png"
+                                                        className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Baparekraf 2021</h4>
-                                                        <p className="desc-certificate">Rangkaian event untuk meningkatkan kapasitas pelaku kreatif khususnya untuk subsektor aplikasi dan games.</p>
+                                                        <p className="desc-certificate">
+                                                            Rangkaian event untuk meningkatkan kapasitas pelaku kreatif khususnya untuk subsektor aplikasi dan games.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -303,7 +308,8 @@ class Experience extends Component {
                                                         className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Pijar Mahir-UI/UX</h4>
-                                                        <p className="desc-certificate">Cara cepat emmbangun UI/UX dengan memanfaatkan Fitur pada Figma.</p>
+                                                        <p className="desc-certificate">
+                                                            Cara cepat emmbangun UI/UX dengan memanfaatkan Fitur pada Figma.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -318,7 +324,9 @@ class Experience extends Component {
                                                         className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Quality Assurance Mindset</h4>
-                                                        <p className="desc-certificate">Rangkaian workshop yang menerangkan terkait pekerjaan yang biasa dilakukan oleh QA di <br/>beberapa perusahaan.</p>
+                                                        <p className="desc-certificate">
+                                                            Rangkaian workshop yang menerangkan terkait pekerjaan yang biasa
+                                                            dilakukan oleh QA di <br />beberapa perusahaan.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -333,7 +341,10 @@ class Experience extends Component {
                                                         className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Pijar Mahir-UX Researcher</h4>
-                                                        <p className="desc-certificate">Mencari informasi dari target pengguna(user) seputar perilaku dan kebutuhan yang kemudian dianalisis untuk menghasilkan desain yang sesuai kebutuhan pengguna.</p>
+                                                        <p className="desc-certificate">
+                                                            Mencari informasi dari target pengguna(user) seputar perilaku dan
+                                                            kebutuhan yang kemudian dianalisis untuk menghasilkan desain yang
+                                                            sesuai kebutuhan pengguna.</p>
                                                     </div>
                                                 </a>
                                             </div>
@@ -348,7 +359,8 @@ class Experience extends Component {
                                                         className="tm-special-img img-responsive" alt="" />
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Pijar Mahir-UI Design</h4>
-                                                        <p className="desc-certificate">Mempelajari Design yang baik dan menarik untuk dapat di terapkan kedalam bentuk sebuah Aplikasi.</p>
+                                                        <p className="desc-certificate">Mempelajari Design yang baik dan menarik untuk
+                                                            dapat di terapkan kedalam bentuk sebuah Aplikasi.</p>
                                                     </div>
                                                 </a>
                                             </div>

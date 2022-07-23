@@ -29,7 +29,8 @@ class Home extends Component{
                                     <p>I am currently working in an IT company as a Programmer and UI/UX Designer.
                                         certificate up to now I have created Blogs, Android npmApplications, Websites and also UI/UX Design
                                         related to the flow of the program.</p>
-                                    <a href="#!" className="main-button-slider"><i className="fa fa-file-text mr-1"></i> Hire Me</a>
+                                    <a href="#!" className="main-button-slider">
+                                        <i className="fa fa-file-text mr-1"></i> Hire Me</a>
 
                                     <div className="row">
                                         <div className="credit">
