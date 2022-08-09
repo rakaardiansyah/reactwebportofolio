@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { Slide } from 'react-reveal';
+import { Link } from "react-router-dom";
+
 
 class About extends Component {
     render() {
@@ -9,55 +12,57 @@ class About extends Component {
                     <section id="about" className="section">
                         <div className="container">
                             <div className="row">
-                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate"
-                                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                                    <div className="section-experience left-text-content">
-                                        <div className="section-heading">
-                                            <h1>3+</h1>
+                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate">
+                                    <Slide left>
+                                        <div className="section-experience left-text-content">
+                                            <div className="section-heading">
+                                                <h1>3+</h1>
+                                            </div>
+                                            <h3>Years <br />Working <br />Experience</h3>
                                         </div>
-                                        <h3>Years <br />Working <br />Experience</h3>
-                                    </div>
+                                    </Slide>
                                 </div>
-                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate"
-                                    data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
-                                    <div className="features-item">
-                                        <div className="features-icon">
-                                            <img src="assets/images/Untitled-2.png" alt="" />
-                                            <h4>LinkedIn</h4>
-                                            <p>Info Lebih Lanjut? Connect ke LinkedIn</p>
-                                            <a href="https://www.linkedin.com/in/raka-ardiansyah23/" className="main-button">
-                                                Connect
-                                            </a>
+                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate">
+                                    <Slide bottom>
+                                        <div className="features-item">
+                                            <div className="features-icon">
+                                                <img src="assets/images/Untitled-2.png" alt="" />
+                                                <h4>LinkedIn</h4>
+                                                <p>Info Lebih Lanjut? Connect ke LinkedIn</p>
+                                                <a href="https://www.linkedin.com/in/raka-ardiansyah23/" className="main-button">
+                                                    Connect
+                                                </a>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </Slide>
                                 </div>
-                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate"
-                                    data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                                    <div className="features-item">
-                                        <div className="features-icon">
-                                            <img src="assets/images/Untitled-3.png" alt="" />
-                                            <h4>UI/UX Design</h4>
-                                            <p>Portofolio UI/UX and Design yang telah di buat</p>
-                                            <a href="/pages/Uiuxdesign.jsx" className="main-button"
-                                                target="_blank" rel="noopener noreferrer">
-                                                Read More
-                                            </a>
+                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate">
+                                    <Slide right>
+                                        <div className="features-item">
+                                            <div className="features-icon">
+                                                <img src="assets/images/Untitled-3.png" alt="" />
+                                                <h4>UI/UX Design</h4>
+                                                <p>Portofolio UI/UX and Design yang telah di buat</p>
+                                                <Link to="/pages/Uiuxdesign" className="main-button" target="_blank" rel="noopener noreferrer">
+                                                    Read More
+                                                </Link>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </Slide>
                                 </div>
-                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate"
-                                    data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                                    <div className="features-item">
-                                        <div className="features-icon">
-                                            <img src="assets/images/Untitled-1.png" alt="" />
-                                            <h4>Portofolio</h4>
-                                            <p>Portofolio Program yang telah dibuat</p>
-                                            <a href="/pages/Portofolio.jsx" className="main-button"
-                                                target="_blank" rel="noopener noreferrer">
-                                                Read More
-                                            </a>
+                                <div className="col-6 col-md-4 col-lg-3 aos-init aos-animate">
+                                    <Slide right>
+                                        <div className="features-item">
+                                            <div className="features-icon">
+                                                <img src="assets/images/Untitled-1.png" alt="" />
+                                                <h4>Portofolio</h4>
+                                                <p>Portofolio Program yang telah dibuat</p>
+                                                <Link to="/pages/Portofolio" className="main-button" target="_blank" rel="noopener noreferrer">
+                                                    Read More
+                                                </Link>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </Slide>
                                 </div>
                             </div>
                         </div>

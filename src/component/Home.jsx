@@ -5,7 +5,7 @@ class Home extends Component{
         return (
             <React.Fragment>
                 <noscript>
-                    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6PVF8J"
+                    <iframe src="https://www.googletagmanager.com/gtag/js?id=G-59EHFRRNV4"
                         height="0" width="0" style="display:none;visibility:hidden">
                     </iframe>
                 </noscript>
@@ -22,8 +22,7 @@ class Home extends Component{
                     <div className="header-text">
                         <div className="container">
                             <div className="row">
-                                <div className="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
-                                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                                <div className="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12">
                                     <h4>Hi, I'm <em>Raka Ardiansyah</em></h4>
                                     <h1>UI/UX Designer and <br/> FrontEnd Developer</h1>
                                     <p>I am currently working in an IT company as a Programmer and UI/UX Designer.
@@ -34,11 +33,26 @@ class Home extends Component{
 
                                     <div className="row">
                                         <div className="credit">
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A" target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.instagram.com/infogtech.id/" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://dribbble.com/rakaardiansyah" target="_blank" rel="noopener noreferrer"><i className="fa fa-dribbble"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://www.linkedin.com/in/raka-ardiansyah23/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
-                                            <a className="btn btn-outline-primary btn-square mr-1" href="https://github.com/rakaardiansyah" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1"
+                                                href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A"
+                                                target="_blank" rel="noopener noreferrer">
+                                                <i className="fa fa-youtube"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1"
+                                                href="https://www.instagram.com/infogtech.id/"
+                                                target="_blank" rel="noopener noreferrer">
+                                                <i className="fa fa-instagram"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1"
+                                                href="https://dribbble.com/rakaardiansyah"
+                                                target="_blank" rel="noopener noreferrer">
+                                                <i className="fa fa-dribbble"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1"
+                                                href="https://www.linkedin.com/in/raka-ardiansyah23/"
+                                                target="_blank" rel="noopener noreferrer">
+                                                <i className="fa fa-linkedin"></i></a>
+                                            <a className="btn btn-outline-primary btn-square mr-1"
+                                                href="https://github.com/rakaardiansyah"
+                                                target="_blank" rel="noopener noreferrer">
+                                                <i className="fa fa-github"></i></a>
                                         </div>
                                     </div>
                                 </div>

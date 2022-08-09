@@ -18,8 +18,7 @@ class Testimonial extends Component {
                                         <p>Berikut adalah testimonial dari client kami</p>
                                     </div>
                                 </div>
-                                <div className="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big"
-                                    data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                                <div className="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big">
                                     <OwlCarousel className="owl-carousel owl-theme">
                                         <div className="item service-item">
                                             <div className="author">

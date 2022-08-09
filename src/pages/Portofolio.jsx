@@ -21,32 +21,37 @@ class Portofolio extends Component{
                         <div className="header-text">
                             <div className="container">
                                 <div className="row">
-                                    <div className="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
-                                        data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                                    <div className="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12">
                                         <h4>Hi, I'm <em>Raka Ardiansyah</em></h4>
                                         <h1>UI/UX Designer and <br/> FrontEnd Developer</h1>
                                         <p>I am currently working in an IT company as a Programmer and UI/UX Designer.
-                                            certificate up to now I have created Blogs, Android Applications, Websites and also UI/UX Design
+                                            certificate up to now I have created Blogs, Android npmApplications, Websites and also UI/UX Design
                                             related to the flow of the program.</p>
-                                        <a href="#about" className="main-button-slider"><i className="fa fa-file-text mr-1"></i> Hire Me</a>
+                                        <a href="#!" className="main-button-slider">
+                                            <i className="fa fa-file-text mr-1"></i> Hire Me</a>
 
                                         <div className="row">
                                             <div className="credit">
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A"
-                                                    target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube"></i></a>
+                                                    target="_blank" rel="noopener noreferrer">
+                                                    <i className="fa fa-youtube"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://www.instagram.com/infogtech.id/"
-                                                    target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a>
+                                                    target="_blank" rel="noopener noreferrer">
+                                                    <i className="fa fa-instagram"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://dribbble.com/rakaardiansyah"
-                                                    target="_blank" rel="noopener noreferrer"><i className="fa fa-dribbble"></i></a>
+                                                    target="_blank" rel="noopener noreferrer">
+                                                    <i className="fa fa-dribbble"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://www.linkedin.com/in/raka-ardiansyah23/"
-                                                    target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
+                                                    target="_blank" rel="noopener noreferrer">
+                                                    <i className="fa fa-linkedin"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://github.com/rakaardiansyah"
-                                                    target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+                                                    target="_blank" rel="noopener noreferrer">
+                                                    <i className="fa fa-github"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -61,13 +66,14 @@ class Portofolio extends Component{
                         <div className="container">
                             <div id="certificate" className="certificate-item">
                                 <div className="center-heading">
-                                    <h2>UI/UX Design</h2>
+                                    <h2>Portofolio</h2>
                                 </div>
                                 <div className="row">
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui1.jpg" className="image-popup" title="Logo Blog Info Gabut">
+                                                <a href="assets/images/uiuxdesign/ui1.jpg"
+                                                    className="image-popup" title="Logo Blog Info Gabut">
                                                     <img src="assets/images/uiuxdesign/ui1.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Logo Blog Info Gabut</h4>
@@ -82,7 +88,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui2.jpg" className="image-popup" title="UI Daftar and Reset Password">
+                                                <a href="assets/images/uiuxdesign/ui2.jpg"
+                                                    className="image-popup" title="UI Daftar and Reset Password">
                                                     <img src="assets/images/uiuxdesign/ui2.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI Daftar and Reset Password</h4>
@@ -95,7 +102,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui3.jpg" className="image-popup" title="New Kopkar BSM Ver 0.1">
+                                                <a href="assets/images/uiuxdesign/ui3.jpg"
+                                                    className="image-popup" title="New Kopkar BSM Ver 0.1">
                                                     <img src="assets/images/uiuxdesign/ui3.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">New Kopkar BSM Ver 0.1</h4>
@@ -108,7 +116,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui4.jpg" className="image-popup" title="UI On Boarding Apps">
+                                                <a href="assets/images/uiuxdesign/ui4.jpg"
+                                                    className="image-popup" title="UI On Boarding Apps">
                                                     <img src="assets/images/uiuxdesign/ui4.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI On Boarding Apps</h4>
@@ -121,7 +130,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui5.jpg" className="image-popup" title="Logo DnC">
+                                                <a href="assets/images/uiuxdesign/ui5.jpg"
+                                                    className="image-popup" title="Logo DnC">
                                                     <img src="assets/images/uiuxdesign/ui5.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Logo DnC</h4>
@@ -134,7 +144,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui6.jpg" className="image-popup" title="Logo Website rakaardiansyah">
+                                                <a href="assets/images/uiuxdesign/ui6.jpg"
+                                                    className="image-popup" title="Logo Website rakaardiansyah">
                                                     <img src="assets/images/uiuxdesign/ui6.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Logo Website Personal</h4>
@@ -149,7 +160,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui7.jpg" className="image-popup" title="UI Workout">
+                                                <a href="assets/images/uiuxdesign/ui7.jpg"
+                                                    className="image-popup" title="UI Workout">
                                                     <img src="assets/images/uiuxdesign/ui7.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI Workout</h4>
@@ -162,7 +174,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui8.jpg" className="image-popup" title="UI ComPro Kopkar BSM Opsi 1">
+                                                <a href="assets/images/uiuxdesign/ui8.jpg"
+                                                    className="image-popup" title="UI ComPro Kopkar BSM Opsi 1">
                                                     <img src="assets/images/uiuxdesign/ui8.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI ComPro Kopkar BSM Opsi 1</h4>
@@ -175,7 +188,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui9.jpg" className="image-popup" title="UI ComPro Kopkar BSM Opsi 2">
+                                                <a href="assets/images/uiuxdesign/ui9.jpg"
+                                                    className="image-popup" title="UI ComPro Kopkar BSM Opsi 2">
                                                     <img src="assets/images/uiuxdesign/ui9.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI ComPro Kopkar BSM Opsi 2</h4>
@@ -188,7 +202,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui11.jpg" className="image-popup" title="Icon Category Apps Mobile ESS">
+                                                <a href="assets/images/uiuxdesign/ui11.jpg"
+                                                    className="image-popup" title="Icon Category Apps Mobile ESS">
                                                     <img src="assets/images/uiuxdesign/ui11.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Icon Category Apps Mobile ESS</h4>
@@ -203,7 +218,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui12.jpg" className="image-popup" title="Icon Category Apps Laznas">
+                                                <a href="assets/images/uiuxdesign/ui12.jpg"
+                                                    className="image-popup" title="Icon Category Apps Laznas">
                                                     <img src="assets/images/uiuxdesign/ui12.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Icon Category Apps Laznas</h4>
@@ -216,7 +232,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui13.jpg" className="image-popup" title="UI Apps Film Anime">
+                                                <a href="assets/images/uiuxdesign/ui13.jpg"
+                                                    className="image-popup" title="UI Apps Film Anime">
                                                     <img src="assets/images/uiuxdesign/ui13.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI Apps Film Anime</h4>
@@ -229,7 +246,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui14.jpg" className="image-popup" title="Web Landing Page Downlod Apps">
+                                                <a href="assets/images/uiuxdesign/ui14.jpg"
+                                                    className="image-popup" title="Web Landing Page Downlod Apps">
                                                     <img src="assets/images/uiuxdesign/ui14.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Web Landing Page Downlod Apps</h4>
@@ -244,7 +262,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui15.jpg" className="image-popup" title="Image Apps Playstore">
+                                                <a href="assets/images/uiuxdesign/ui15.jpg"
+                                                    className="image-popup" title="Image Apps Playstore">
                                                     <img src="assets/images/uiuxdesign/ui15.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Image Apps Playstore</h4>
@@ -257,7 +276,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui16.jpg" className="image-popup" title="UI Apps Laznas Donation">
+                                                <a href="assets/images/uiuxdesign/ui16.jpg"
+                                                    className="image-popup" title="UI Apps Laznas Donation">
                                                     <img src="assets/images/uiuxdesign/ui16.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">UI Apps Laznas Donation</h4>
@@ -270,7 +290,8 @@ class Portofolio extends Component{
                                     <div className="col-md-4 mb-3 mb-md-0">
                                         <div className="tm-special-img-container">
                                             <div className="certificate-item">
-                                                <a href="assets/images/uiuxdesign/ui17.jpg" className="image-popup" title="Apps E-Commerce">
+                                                <a href="assets/images/uiuxdesign/ui17.jpg"
+                                                    className="image-popup" title="Apps E-Commerce">
                                                     <img src="assets/images/uiuxdesign/ui17.jpg" className="tm-special-img img-responsive" alt=""/>
                                                     <div className="tm-special-description">
                                                         <h4 className="title-certificate">Apps E-Commerce</h4>
@@ -294,8 +315,7 @@ class Portofolio extends Component{
                                             <p>Berikut adalah testimonial dari client kami</p>
                                         </div>
                                     </div>
-                                    <div className="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big"
-                                        data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                                    <div className="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big">
                                         <OwlCarousel className="owl-carousel owl-theme">
                                             <div className="item service-item">
                                                 <div className="author">

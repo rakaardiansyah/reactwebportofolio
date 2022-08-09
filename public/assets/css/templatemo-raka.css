@@ -1032,11 +1032,22 @@ Certificate Gallery
   color: #ffffff;
 }
 .desc-link {
-  margin-top: 0;
-  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 2px 5px;
+  font-size: 14px;
   line-height: 14px;
-  color: #f5c53f;
-  background-color: #212529;
+  color: #ffffff;
+  background-color: #1c4680;
+}
+.link-pdf {
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 2px 5px;
+  font-size: 14px;
+  line-height: 14px;
+  color: #ffffff;
+  background-color: #147e6b;
 }
 .desc-certificate {
   margin-top: 5px;
@@ -1283,7 +1294,7 @@ footer
 footer {
   margin-top: 60px;
   padding-top: 80px;
-  background-image: url(../images/footer-bg.png);
+  background-image: url(../images/footer-bg2.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

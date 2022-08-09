@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Container } from 'react-bootstrap'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './component/Header';
 import Home from './component/Home';
 import About from './component/About';
@@ -7,7 +9,9 @@ import Experience from './component/Experience';
 import Contact from './component/Contact';
 import Footer from './component/Footer';
 
-import { BrowserRouter as Router } from 'react-router-dom';
+import Portofolio from './pages/Portofolio';
+import Uiuxdesign from './pages/Uiuxdesign';
+
 import $ from 'jquery';
 window.jQuery = $;
 window.$ = $;
@@ -16,7 +20,7 @@ global.jQuery = $;
 class App extends Component {
   render() {
       return (
-          <Router>
+        <Router>
             <Header />
             <Home />
             <About />
@@ -24,6 +28,12 @@ class App extends Component {
             <Experience />
             <Contact />
             <Footer />
+            <Container>
+              <Routes>
+                <Route path='/pages/Uiuxdesign' element={<Uiuxdesign/>} exact />
+                <Route path='/pages/Portofolio' element={<Portofolio/>} exact />
+              </Routes>
+            </Container>
           </Router>
       )
     }

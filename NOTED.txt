@@ -1,10 +1,14 @@
 Benerin kode ini :
 
-1. data-scroll-reveal=
-
-2. css,js,dll tidak bisa connect ke pages
+1. css,js,dll tidak bisa connect ke pages
 <a href="/pages/Portofolio.jsx" className="main-button">
 
-3. Uncaught TypeError: Cannot read properties of null (reading 'match')
+2. Uncaught TypeError: Cannot read properties of null (reading 'match')
     at r (<anonymous>:1:3810)
     at i (<anonymous>:1:4146)
+
+3. https://www.npmjs.com/package/react-magnific-popup
+
+
+NOTED NEW (Git Commit-M) :
+Tambah script ket sertifikat, tambah link sertifikat, react-reveal/Slide, Penambahan Google Analytics
