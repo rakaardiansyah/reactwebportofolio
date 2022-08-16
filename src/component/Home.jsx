@@ -5,7 +5,7 @@ class Home extends Component{
         return (
             <React.Fragment>
                 <noscript>
-                    <iframe src="https://www.googletagmanager.com/gtag/js?id=G-59EHFRRNV4"
+                    <iframe title="Google Tag Manager" src="https://www.googletagmanager.com/gtag/js?id=G-59EHFRRNV4"
                         height="0" width="0" style="display:none;visibility:hidden">
                     </iframe>
                 </noscript>
@@ -35,23 +35,23 @@ class Home extends Component{
                                         <div className="credit">
                                             <a className="btn btn-outline-primary btn-square mr-1"
                                                 href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A"
-                                                target="_blank" rel="noopener noreferrer">
+                                                target='_blank' rel='noopener noreferrer'>
                                                 <i className="fa fa-youtube"></i></a>
                                             <a className="btn btn-outline-primary btn-square mr-1"
                                                 href="https://www.instagram.com/infogtech.id/"
-                                                target="_blank" rel="noopener noreferrer">
+                                                target='_blank' rel='noopener noreferrer'>
                                                 <i className="fa fa-instagram"></i></a>
                                             <a className="btn btn-outline-primary btn-square mr-1"
                                                 href="https://dribbble.com/rakaardiansyah"
-                                                target="_blank" rel="noopener noreferrer">
+                                                target='_blank' rel='noopener noreferrer'>
                                                 <i className="fa fa-dribbble"></i></a>
                                             <a className="btn btn-outline-primary btn-square mr-1"
                                                 href="https://www.linkedin.com/in/raka-ardiansyah23/"
-                                                target="_blank" rel="noopener noreferrer">
+                                                target='_blank' rel='noopener noreferrer'>
                                                 <i className="fa fa-linkedin"></i></a>
                                             <a className="btn btn-outline-primary btn-square mr-1"
                                                 href="https://github.com/rakaardiansyah"
-                                                target="_blank" rel="noopener noreferrer">
+                                                target='_blank' rel='noopener noreferrer'>
                                                 <i className="fa fa-github"></i></a>
                                         </div>
                                     </div>
@@ -84,7 +84,7 @@ class Home extends Component{
                             </a>
                         </li>
                         <li className="nav-item">
-                            <a href="https://dribbble.com/rakaardiansyah" target="_blank" className="nav-link">
+                            <a href="https://dribbble.com/rakaardiansyah" target="blank" className="nav-link">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" fill="currentColor" className="bi bi-journal-richtext" viewBox="0 0 16 16">
                                     <path d="M7.5 3.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0zm-.861 1.542 1.33.886 1.854-1.855a.25.25 0 0 1 .289-.047L11 4.75V7a.5.5 0 0 1-.5.
                                     5h-5A.5.5 0 0 1 5 7v-.5s1.54-1.274 1.639-1.208zM5 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 0 1h-2a

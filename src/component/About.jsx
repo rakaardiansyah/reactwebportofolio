@@ -43,7 +43,7 @@ class About extends Component {
                                                 <img src="assets/images/Untitled-3.png" alt="" />
                                                 <h4>UI/UX Design</h4>
                                                 <p>Portofolio UI/UX and Design yang telah di buat</p>
-                                                <Link to="/pages/Uiuxdesign" className="main-button" target="_blank" rel="noopener noreferrer">
+                                                <Link to="/Uiuxdesign" className="main-button" target="blank" rel="noopener noreferrer">
                                                     Read More
                                                 </Link>
                                             </div>
@@ -57,7 +57,7 @@ class About extends Component {
                                                 <img src="assets/images/Untitled-1.png" alt="" />
                                                 <h4>Portofolio</h4>
                                                 <p>Portofolio Program yang telah dibuat</p>
-                                                <Link to="/pages/Portofolio" className="main-button" target="_blank" rel="noopener noreferrer">
+                                                <Link to="/Portofolio" className="main-button" target="blank" rel="noopener noreferrer">
                                                     Read More
                                                 </Link>
                                             </div>

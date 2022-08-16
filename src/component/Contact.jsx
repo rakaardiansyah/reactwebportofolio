@@ -8,7 +8,7 @@ class Contact extends Component {
 
                     <section id="contact-us" className="section bg-primary text-white">
                         <div className="container text-center">
-                            <h2 className="mb-4">Ingin info lebih lanjut?</h2>
+                            <h2 className="mb-4">Want more info?</h2>
                             <a href="#portfolio" className="btn btn-xl btn-light mr-4">Look at Me!</a>
                             <a href="https://api.whatsapp.com/send/?phone=6283813187473" className="btn btn-xl btn-dark">
                                 WhatsApp</a>
@@ -33,8 +33,10 @@ class Contact extends Component {
                                             <h4 className="text-uppercase m-0">Email</h4>
                                             <hr className="my-4" />
                                             <div className="small text-black-50">
-                                                <a href="https://mail.google.com/mail?authuser=raka.devproject@gmail.com#all/1567f47dd61869df">
+                                                <a href="mailto:raka.devproject@gmail.com?Subject=Memberikan%20Project%20Mengenai" target='_top'>
                                                     raka.devproject@gmail.com</a></div>
+                                                {/* <a href="https://mail.google.com/mail?authuser=raka.devproject@gmail.com#all/1567f47dd61869df" target='_top'>
+                                                    raka.devproject@gmail.com</a></div> */}
                                         </div>
                                     </div>
                                 </div>

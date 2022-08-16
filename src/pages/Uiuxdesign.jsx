@@ -30,23 +30,23 @@ class Uiuxdesign extends Component{
                                             <div className="credit">
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://www.youtube.com/channel/UCrivAuoEkKS7ZudfXUnl74A"
-                                                    target="_blank" rel="noopener noreferrer">
+                                                    target='_blank' rel='noopener noreferrer'>
                                                     <i className="fa fa-youtube"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://www.instagram.com/infogtech.id/"
-                                                    target="_blank" rel="noopener noreferrer">
+                                                    target='_blank' rel='noopener noreferrer'>
                                                     <i className="fa fa-instagram"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://dribbble.com/rakaardiansyah"
-                                                    target="_blank" rel="noopener noreferrer">
+                                                    target='_blank' rel='noopener noreferrer'>
                                                     <i className="fa fa-dribbble"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://www.linkedin.com/in/raka-ardiansyah23/"
-                                                    target="_blank" rel="noopener noreferrer">
+                                                    target='_blank' rel='noopener noreferrer'>
                                                     <i className="fa fa-linkedin"></i></a>
                                                 <a className="btn btn-outline-primary btn-square mr-1"
                                                     href="https://github.com/rakaardiansyah"
-                                                    target="_blank" rel="noopener noreferrer">
+                                                    target='_blank' rel='noopener noreferrer'>
                                                     <i className="fa fa-github"></i></a>
                                             </div>
                                         </div>
@@ -75,7 +75,7 @@ class Uiuxdesign extends Component{
                                                         <h4 className="title-certificate">Logo Blog Info Gabut</h4>
                                                         <p className="desc-certificate">Berikut adalah logo blog info gabut</p>
                                                         <a className="desc-link" href="https://infogabut.blogspot.com/"
-                                                            target="_blank" rel="noopener noreferrer" size> infogabut.blogspot.com</a>
+                                                            target='_blank' rel='noopener noreferrer' size> infogabut.blogspot.com</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -147,7 +147,7 @@ class Uiuxdesign extends Component{
                                                         <h4 className="title-certificate">Logo Website Personal</h4>
                                                         <p className="desc-certificate">Berikut beberapa opsi Logo Website Raka Ardiansyah </p>
                                                         <a className="desc-link" href="rakaardiansyah.my.id"
-                                                            target="_blank" rel="noopener noreferrer" size> rakaardiansyah.my.id</a>
+                                                            target='_blank' rel='noopener noreferrer' size> rakaardiansyah.my.id</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -205,7 +205,7 @@ class Uiuxdesign extends Component{
                                                         <h4 className="title-certificate">Icon Category Apps Mobile ESS</h4>
                                                         <p className="desc-certificate">Berikut adalah Icon Category Pack untuk Aplikasi Android Mobile ESS</p>
                                                         <a className="desc-link" href="https://play.google.com/store/apps/details?id=com.kti.kopkar"
-                                                            target="_blank" rel="noopener noreferrer" size> Apps Mobile ESS</a>
+                                                            target='_blank' rel='noopener noreferrer' size> Apps Mobile ESS</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -249,7 +249,7 @@ class Uiuxdesign extends Component{
                                                         <h4 className="title-certificate">Web Landing Page Downlod Apps</h4>
                                                         <p className="desc-certificate">Berikut adalah Tampilan Web Landing Page2 di Gunakan untuk download Apps New Kopkar BSM.</p>
                                                         <a className="desc-link" href="https://download.kopkarbsm.co.id/"
-                                                            target="_blank" rel="noopener noreferrer" size> download.kopkarbsm.co.id</a>
+                                                            target='_blank' rel='noopener noreferrer' size> download.kopkarbsm.co.id</a>
                                                     </div>
                                                 </a>
                                             </div>

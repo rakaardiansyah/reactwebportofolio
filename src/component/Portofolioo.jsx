@@ -27,7 +27,7 @@ class Portofolioo extends Component {
                                                         <p className="desc-certificate">Company Profile PT Khazanah Teknologi
                                                             Indonesia adalah perusahaan software house</p>
                                                         <a className="desc-link" href="https://ktindonesia.com/"
-                                                            target="_blank" rel="noopener noreferrer" size> ktindonesia.com</a>
+                                                            target='_blank' rel='noopener noreferrer' size> ktindonesia.com</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -76,7 +76,7 @@ class Portofolioo extends Component {
                                                         <p className="desc-certificate">System Referral Haji dipakai untuk internal
                                                             Bank BSI yang di gunakan pegawai daftar Haji dan Umrah</p>
                                                         <a className="desc-link" href="https://referralbsi.com/login"
-                                                            target="_blank" rel="noopener noreferrer" size>referralbsi.com</a>
+                                                            target='_blank' rel='noopener noreferrer' size>referralbsi.com</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -93,7 +93,7 @@ class Portofolioo extends Component {
                                                             Mobile ESS</h4>
                                                         <p className="desc-certificate">Kopkar BSM Mobile ESS Absensi Pegawai Koperasi Karyawan BSM.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1QQPL9JMis_7SchbOQMgrJS9CCFAg_zSY/view"
-                                                            target="_blank" rel="noopener noreferrer" size>Mobile ESS</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Mobile ESS</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -155,7 +155,7 @@ class Portofolioo extends Component {
                                                             Onboarding Apps Kopkar BSM</h4>
                                                         <p className="desc-certificate">Berikut adalah Design Onboarding yang di gunakan dalam Aplikasi MykopkarBSM</p>
                                                         <a className="desc-link" href="https://play.google.com/store/apps/details?id=com.kopkarbsm.mykopkar"
-                                                            target="_blank" rel="noopener noreferrer" size>Apps Mykopkarbsm</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Apps Mykopkarbsm</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -227,7 +227,7 @@ class Portofolioo extends Component {
                                                         <h4 className="title-certificate">ComPro PT Koperasi Karyawan Bank Syariah Mandiri</h4>
                                                         <p className="desc-certificate">Berikut adalah Company Profile PT Bank Syariah Mandiri</p>
                                                         <a className="desc-link" href="https://kopkarbsm.co.id/"
-                                                            target="_blank" rel="noopener noreferrer" size> kopkarbsm.co.id</a>
+                                                            target='_blank' rel='noopener noreferrer' size> kopkarbsm.co.id</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -243,7 +243,7 @@ class Portofolioo extends Component {
                                                         <h4 className="title-certificate">Laznas Donasi Bank Syariah Indonesia</h4>
                                                         <p className="desc-certificate">Berikut adalah Laznas Donasi Bank Syariah Indonesia yang di gunakan untuk Zakat, Donasi, Wakaf dan Kegiatan Lainnya</p>
                                                         <a className="desc-link" href="https://referralbsi.com/laznas"
-                                                            target="_blank" rel="noopener noreferrer" size> laznasdonation</a>
+                                                            target='_blank' rel='noopener noreferrer' size> laznasdonation</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -259,7 +259,7 @@ class Portofolioo extends Component {
                                                         <h4 className="title-certificate">Website Personal Branding rakaardiansyah</h4>
                                                         <p className="desc-certificate">Website Personal Branding ini di gunakan untuk menmapilkan portofolio dari rakaardiansyah yang di buat menggunakan React JS</p>
                                                         <a className="desc-link" href="https://rakaardiansyah.my.id/"
-                                                            target="_blank" rel="noopener noreferrer" size> rakaardiansyah.my.id</a>
+                                                            target='_blank' rel='noopener noreferrer' size> rakaardiansyah.my.id</a>
                                                     </div>
                                                 </a>
                                             </div>

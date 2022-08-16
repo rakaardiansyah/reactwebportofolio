@@ -11,4 +11,4 @@ Benerin kode ini :
 
 
 NOTED NEW (Git Commit-M) :
-Tambah script ket sertifikat, tambah link sertifikat, react-reveal/Slide, Penambahan Google Analytics
+Tambah

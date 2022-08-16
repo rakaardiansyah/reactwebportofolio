@@ -297,9 +297,9 @@ class Experience extends Component {
                                                             MySkill UI Design mempelajari tentang Design System yang biasa di pakai dalam men-mendevelop Aplikasi dibuat
                                                             bersama tim dengan berkolaborasi mengacu kepada Design System yang telah di buat.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1KP_4M6llUwNPuB_zign1Y5KY3AgOuVo6/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                         <a className="link-pdf" href="https://drive.google.com/file/d/1DvR4pjj32no36ujt88mdm7PhLPCqzwsA/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Task PDF</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Task PDF</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -319,7 +319,7 @@ class Experience extends Component {
                                                             Scrum Values yg terdiri dari Courage, Focus, Commitment, Respect, Openness
                                                             dan dijelaskan juga 3 Pilar Scrum Transparancy, Adaptation, Inspection.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1KP_4M6llUwNPuB_zign1Y5KY3AgOuVo6/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -337,7 +337,7 @@ class Experience extends Component {
                                                         <p className="desc-certificate">
                                                             ................................<br>........................</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1KIzF0YVQyNqTYS067u3_ap1WSZiC116z/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -387,7 +387,7 @@ class Experience extends Component {
                                                         <p className="desc-certificate">
                                                             Cara cepat membangun UI/UX dengan memanfaatkan Fitur pada Figma.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1S8wJyP6WIpGqYke04VJA4Jff736Ky70E/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -406,7 +406,7 @@ class Experience extends Component {
                                                             Rangkaian workshop di Alterra Academy yang menerangkan terkait pekerjaan yang biasa
                                                             dilakukan oleh QA di <br />beberapa perusahaan.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1bOzliiDqjC9z25XQMgCIyfZT4CZOZ1xi/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -426,7 +426,7 @@ class Experience extends Component {
                                                             kebutuhan yang kemudian dianalisis untuk menghasilkan desain yang
                                                             sesuai kebutuhan pengguna.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/15CxCjZLDmu_QvfIaAQ5ZIE85GOHV_45b/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -444,7 +444,7 @@ class Experience extends Component {
                                                         <p className="desc-certificate">Mempelajari Design yang baik dan menarik untuk
                                                             dapat di terapkan kedalam bentuk sebuah Aplikasi.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1DvwsmnZwjDrhGvJh8amZxz-hIPprhjD8/view?usp=sharinghttps://kopkarbsm.co.id/"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>
@@ -463,7 +463,7 @@ class Experience extends Component {
                                                             dalam melakukan tugas dan bereaksi terdapat suatu situasi di tempat kerja dalam bidang IT kemampuan dalam problem solving atau pemecahan masalah,
                                                             prioritas serta ketrampilan numerik.</p>
                                                         <a className="desc-link" href="https://drive.google.com/file/d/1yLPKxlYZj__IIeOd98PtR2cc6r1TCXL2/view?usp=sharing"
-                                                            target="_blank" rel="noopener noreferrer" size>Link Certificate</a>
+                                                            target='_blank' rel='noopener noreferrer' size>Link Certificate</a>
                                                     </div>
                                                 </a>
                                             </div>

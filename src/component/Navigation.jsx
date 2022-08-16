@@ -52,7 +52,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="https://infogabut.blogspot.com/" target="_blank"
+              <a href="https://infogabut.blogspot.com/" target="blank"
               rel="noopener noreferrer">Blog</a>
             </li>
           </ul>

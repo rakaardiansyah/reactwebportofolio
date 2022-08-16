@@ -29,7 +29,7 @@ export class Header extends Component{
                                             <a href="#contact-us" className="menu-item">Contact</a>
                                         </li>
                                         <li className="scroll-to-section">
-                                            <a href="https://infogabut.blogspot.com/" target="_blank"
+                                            <a href="https://infogabut.blogspot.com/" target="blank"
                                                 rel="noopener noreferrer">Blog</a>
                                         </li>
                                     </ul>

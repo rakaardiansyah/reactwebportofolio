@@ -9,13 +9,10 @@ import Experience from './component/Experience';
 import Contact from './component/Contact';
 import Footer from './component/Footer';
 
-import Portofolio from './pages/Portofolio';
-import Uiuxdesign from './pages/Uiuxdesign';
+import Portofolio from './pages/portofolio';
+import Uiuxdesign from './pages/uiuxdesign';
 
-import $ from 'jquery';
-window.jQuery = $;
-window.$ = $;
-global.jQuery = $;
+
 
 class App extends Component {
   render() {
@@ -28,13 +25,15 @@ class App extends Component {
             <Experience />
             <Contact />
             <Footer />
+
             <Container>
               <Routes>
-                <Route path='/pages/Uiuxdesign' element={<Uiuxdesign/>} exact />
                 <Route path='/pages/Portofolio' element={<Portofolio/>} exact />
+                <Route path='/pages/Uiuxdesign' element={<Uiuxdesign/>} exact />
               </Routes>
             </Container>
-          </Router>
+
+        </Router>
       )
     }
 }
